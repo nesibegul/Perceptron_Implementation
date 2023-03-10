@@ -24,7 +24,7 @@ conda activate ./env
 ### add remote address
 
 ```
-git remote add upstream https://github.com/nesibegul/Perceptron_Implementation.git
+git remote add name_of_repost https://github.com/nesibegul/Perceptron_Implementation.git
 ```
 ### make directory command in git bash
 ```
